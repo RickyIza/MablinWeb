@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "mablinweb": {
+      "hosting": {
+        "MablinWeb": [
+          "mablinweb"
+        ]
+      }
+    }
+  }
+}
